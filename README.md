@@ -41,7 +41,7 @@ pipenv shell
 Step 4: Install Packages
 
 ```bash
-pipenv install
+pipenv install django djangorestframework django-rest-knox django-cors-headers
 ```
 
 Step 5: Move to project folder
